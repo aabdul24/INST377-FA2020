@@ -22,14 +22,6 @@ h2 {
   font-weight: 900;
 }
 
-<<<<<<< HEAD
-.header{
-
-    display: flex;
-    justify-content: space-between;
-    height: auto;
-    width: 354px;
-=======
 .header {
   background: blue;
   color: white;
@@ -92,7 +84,6 @@ h2 {
    margin: 0;
    margin-bottom: 15px
 }
->>>>>>> 92ec35e58db0c248faf791af9eb7ded74be07db1
 
 .one p {
    margin:15px 0 0 0;
