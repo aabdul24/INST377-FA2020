@@ -68,7 +68,6 @@ h2 {
    font-size: 1.2res;
 }
 
-
 @media screen and (min-width:1000px) {
    .container {
        justify-content:center;
