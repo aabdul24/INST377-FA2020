@@ -41,6 +41,11 @@ h2 {
   align-items: center;
 }
 
+.column {
+  flex: 50%;
+  padding: 5px;
+}
+
 .one p {
   background: #32EDAF;
   border-radius: 4px;
