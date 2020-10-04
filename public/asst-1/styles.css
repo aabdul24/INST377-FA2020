@@ -50,7 +50,7 @@ h2 {
 }
 
 .image {
-  width:inherit;
+  width: 355px;
   border-radius: 4px;
   border:solid 1px green
 } 
