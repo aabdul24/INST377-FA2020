@@ -23,7 +23,8 @@ h2 {
 }
 
 .header {
-  background: blue;
+  display: flex;
+  background: rgb(0, 0, 0);
   color: white;
   flex-direction:row;
   flex-wrap: wrap;
@@ -73,6 +74,12 @@ h2 {
    .container {
        justify-content:center;
    }
+}
+
+@media screen and (max-width:1000px) {
+  .container {
+      justify-content:center;
+  }
 }
 
 .one {
