@@ -32,6 +32,7 @@ document.body.addEventListener('submit', async (e) => {
     },
     body: JSON.stringify(form)
   })
+  
     .then((fromServer) => fromServer.json())
     .then((fromServer) => {
       console.log(fromServer)
